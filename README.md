@@ -12,6 +12,8 @@ GET Lambda: Retrieves data from DynamoDB.
 
 DynamoDB: A NoSQL database where user data is stored and accessed.
 
+In this project user can only registration and vew data of the student. 
+
 
 #TRY OUT MY PROJECT
 http://student297.s3-website.ap-south-1.amazonaws.com
